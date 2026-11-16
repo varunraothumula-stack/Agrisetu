@@ -1,0 +1,6 @@
+{
+  "name": "AgriSetu",
+  "description": "Farm to Market platform connecting Indian farmers with verified buyers, mandi price tracking, crop disease diagnosis, and input store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

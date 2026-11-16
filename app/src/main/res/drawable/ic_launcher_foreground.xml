@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group>
+        <!-- Bridge arch (Setu) connecting farm to market -->
+        <path
+            android:fillColor="#81C784"
+            android:pathData="M26,76 C38,62 70,62 82,76 L86,72 C72,56 36,56 22,72 Z" />
+        <path
+            android:fillColor="#A5D6A7"
+            android:pathData="M24,75 L84,75 L84,78 L24,78 Z" />
+        <!-- Pillar supports -->
+        <path
+            android:fillColor="#E8F5E9"
+            android:pathData="M34,71 L38,71 L38,81 L34,81 Z M52,67 L56,67 L56,81 L52,81 Z M70,71 L74,71 L74,81 L70,81 Z" />
+
+        <!-- Central growing crop/wheat stalk with glowing leaves -->
+        <!-- Center stalk -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M52,28 C52,28 53,46 54,64 L52,64 C51,46 52,28 52,28 Z" />
+
+        <!-- Central grain head -->
+        <path
+            android:fillColor="#FFD54F"
+            android:pathData="M53,24 C50,28 50,33 53,37 C56,33 56,28 53,24 Z" />
+        <!-- Side grains / leaves -->
+        <path
+            android:fillColor="#FFF59D"
+            android:pathData="M48,31 C44,32 42,36 45,39 C48,39 51,36 52,34 Z" />
+        <path
+            android:fillColor="#FFF59D"
+            android:pathData="M58,31 C62,32 64,36 61,39 C58,39 55,36 54,34 Z" />
+
+        <path
+            android:fillColor="#FFE082"
+            android:pathData="M46,39 C41,41 40,46 43,49 C47,48 49,44 51,42 Z" />
+        <path
+            android:fillColor="#FFE082"
+            android:pathData="M60,39 C65,41 66,46 63,49 C59,48 57,44 55,42 Z" />
+
+        <!-- Broad green leaves flanking the bridge -->
+        <path
+            android:fillColor="#C8E6C9"
+            android:pathData="M52,54 C42,50 35,42 36,36 C42,38 48,46 52,54 Z" />
+        <path
+            android:fillColor="#C8E6C9"
+            android:pathData="M54,54 C64,50 71,42 70,36 C64,38 58,46 54,54 Z" />
+    </group>
+</vector>
